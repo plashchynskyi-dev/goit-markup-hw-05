@@ -518,7 +518,9 @@ position: relative;
     background: #2e2f42;
     padding: 100px 0;
 }
-
+.logo-item-footer {
+    margin-right: 120px;
+}
 .footer-logo {
     display: block;
     margin-bottom: 16px;
@@ -553,7 +555,9 @@ position: relative;
     color: #f4f4fd;
     font-family: "Raleway", sans-serif;
 }
-
+.social-media {
+    margin-right: 80px;
+}
 .social-media-text {
     font-weight: 500;
     font-size: 16px;
@@ -574,7 +578,6 @@ position: relative;
     display: flex;
     align-items: center;
     justify-content: center;
-
     border-radius: 50%;
     background-color: #4d5ae5;
     fill: #fff;
@@ -588,7 +591,6 @@ position: relative;
 
 .footer .container {
     display: flex;
-    gap: 120px;
     align-items: baseline;
 }
 

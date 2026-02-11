@@ -600,8 +600,7 @@ position: relative;
         flex-direction: column;
         max-width: 453px;
         max-height: 80px;
-
-        right: 0;
+        margin-left: auto;
 }
 .mail-text {
     font-weight: 500;

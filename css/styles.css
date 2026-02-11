@@ -767,7 +767,7 @@ position: relative;
 }
 
 .field-wrapper {
-    margin-bottom: 8px;
+    margin-bottom: 16px;
 }
 
 .icon-inner {
@@ -844,7 +844,7 @@ position: relative;
 }
 
 .checkbox-wrapper {
-    padding-top: 8px;
+    padding-top: 0;
 }
 
 .input-checkbox:checked+.text-terms .custom-checkbox {
